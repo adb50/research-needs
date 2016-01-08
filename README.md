@@ -14,6 +14,8 @@ is on this site, but you are interested in it or have a perspective to add, you 
 Once an idea has a few interested parties and is sufficiently thought out, we can transfer 
 it to the [Research Needs Database](http://rns.trb.org).  
 
+We are testing the open, trackable, and user-friendly [ and free ] environment of GitHub to generate and edit research needs.  Please reach out to @e_lo if you have any problems using it.  There are plenty of helpful articles giving an overview of GitHub.  If you are new to it, then it might be helpful to read an [overview article](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1) that explains the gist.
+
 To add or edit a research need:  
  - [Get a GitHub Account](http://github.com/join)
  - ["Fork"](https://help.github.com/articles/fork-a-repo/) this repository
