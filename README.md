@@ -32,7 +32,7 @@ Nobody knows!  That said, there is a fairly defined process for progressing tran
 research through the [National Academies of Sciences Transportation Research Board](http://www.trb.org). 
 However, that is just one possibility for progressing research needs.  Another is contracting 
 directly with a university either by yourself, using pooled funds, or via a research organization 
-such as [http://researcHQ.org](ResearcHQ.org). The TRB research needs process is discussed below.
+such as [researcHQ.org](http://ResearcHQ.org). The TRB research needs process is discussed below.
 
 ### TRB Research Needs Statements
 
