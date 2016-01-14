@@ -1,10 +1,10 @@
 # For RSS
 name: Research Needs for Planning Applications
 description: Research Needs Statements that are in development for Planning Applications
-url: http://127.0.0.1:4000/updates/
+url: 
 
 # Site settings
-baseurl:  
+baseurl: /research-needs
 title: Research Needs Development for Planning Applications
 timezone: America/Los_Angeles
 
