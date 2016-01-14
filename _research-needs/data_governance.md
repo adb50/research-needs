@@ -1,3 +1,12 @@
+---
+layout: rns
+title: Data Governance
+interested-practitioners:
+ - name: Krishnan Viswanathan, Cambridge Systematics
+   link: https://github.com/krishnan-viswanathan
+interested-researchers: .
+comments: true
+---
 ## Data Governance 
 
 There is a lot of data available from a variety of private sources. Quite a few of them have restrictive use clauses which prevents public agencies from sharing data purchased for any purpose from being used for other purposes by internal stakeholders. Public agencies on the other hand have broad public access laws that leads to the following issues:
@@ -9,9 +18,3 @@ There is a lot of data available from a variety of private sources. Quite a few 
 ## Existing Work
 
 Not aware of any
-
-## Interested Practitioners
-
-* [Krishnan Viswanathan](https://github.com/krishnan-viswanathan), Cambridge Systematics
-
-## Interested Researchers

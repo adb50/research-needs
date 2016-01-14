@@ -1,3 +1,12 @@
+---
+layout: rns
+title: Effective and Efficient Route Choice Model Design
+interested-practitioners:
+ - name: Elizabeth Sall, UrbanLabs LLC
+   link: https://github.com/e-lo
+interested-researchers: .
+comments: true
+---
 # Effective and Efficient Route Choice Model Design
 
 How do we estimate and apply route choices models that are:
@@ -12,9 +21,3 @@ How do we estimate and apply route choices models that are:
  - Nassir, N.; Ziebarth J.; Sall, E. & Zorn, L. (2014). Choice set generation algorithm suitable for measuring route choice accessibility.  Transportation Research Record, 2430, 170-181.
  - Mai, T.; Fosgerau; M., & Frejinger, E. (2015).  A nested recursive logit model for route choice analysis.  Transportation Research Part B: Methodological, 75, 100-112.
 
-# Interested Practitioners
-
- - [Elizabeth Sall](https://github.com/e-lo), [UrbanLabs LLC](http://urbanlabs.io)
-
-
-# Interested Researchers
