@@ -1,0 +1,13 @@
+<!-- Blog Grid Section -->
+<div class="container">
+        <div class="row">
+        <div class="col-md-8 text-left">
+            <h5 class="section-heading">Research Needs in Development</h5>
+        </div>
+        </div>
+        {% for rns in site.research-needs limit: 40 %}
+             <a href="{{ rns.url }}">{{ rns.title }}</a><br>
+        {% endfor %}
+<!-- /container -->
+</div>
+    

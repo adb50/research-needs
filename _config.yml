@@ -1,0 +1,30 @@
+# For RSS
+name: Research Needs for Planning Applications
+description: Research Needs Statements that are in development for Planning Applications
+url: http://127.0.0.1:4000/updates/
+
+# Site settings
+baseurl:  
+title: Research Needs Development for Planning Applications
+timezone: America/Los_Angeles
+
+collections:
+    research-needs:
+        output: true
+
+include: ["resources"]
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 3366ff
+  secondary: fed136
+  secondary-dark: 4d4d4d
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/adb50
+
+# Build settings
+markdown: kramdown
+permalink: pretty

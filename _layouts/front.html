@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <body id="page-top" class="index">
+
+    {% include header.html %}
+    <div class="row">
+    <div class="col-md-7 text-left">
+    {{ content }}
+    {% include timeline.html %}
+    </div>
+    <div class="col-md-5 text-left">
+    <div class="faint_border"></div>
+    {% include rns-list.html %}
+    <div class="faint_border"></div>
+    </div>
+    </div>
+    {% include footer.html %}
+    {% include js.html %}
+
+    </body>
+</html>

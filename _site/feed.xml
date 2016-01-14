@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Needs for Planning Applications</title>
+    <description>Research Needs Statements that are in development for Planning Applications</description>
+    <link>http://127.0.0.1:4000/updates/</link>
+    <atom:link href="http://127.0.0.1:4000/updates//feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Accessible Accessibility</title>
+        <description>&lt;p&gt;Testing accessibility metrics with planners.&lt;/p&gt;
+
+&lt;p&gt;Metrics that help explain accessibility across scenarios and across geographies?&lt;/p&gt;
+
+&lt;h1 id=&quot;existing-work&quot;&gt;Existing Work&lt;/h1&gt;
+
+</description>
+        <link>http://127.0.0.1:4000/updates///research-needs/accessible-accessibility.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/updates///research-needs/accessible-accessibility.html</guid>
+      </item>
+    
+      <item>
+        <title>Leveraging Big Data in Model Design</title>
+        <description>&lt;p&gt;How do we leveraging big data in model design?&lt;/p&gt;
+
+&lt;h1 id=&quot;existing-work&quot;&gt;Existing Work&lt;/h1&gt;
+
+</description>
+        <link>http://127.0.0.1:4000/updates///research-needs/big-data-model-design.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/updates///research-needs/big-data-model-design.html</guid>
+      </item>
+    
+      <item>
+        <title>Representing Connected Automated Vehicles in Models</title>
+        <description>&lt;p&gt;How do we add connected and autonomous vehicles to our long range planning analysis?&lt;/p&gt;
+
+&lt;h1 id=&quot;existing-work&quot;&gt;Existing Work&lt;/h1&gt;
+
+</description>
+        <link>http://127.0.0.1:4000/updates///research-needs/cav-models.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/updates///research-needs/cav-models.html</guid>
+      </item>
+    
+      <item>
+        <title>Efficient and Effective Model Calibration</title>
+        <description>&lt;p&gt;Tools and techniques to calibrate models efficiently and effectively.&lt;/p&gt;
+
+&lt;h1 id=&quot;existing-work&quot;&gt;Existing Work&lt;/h1&gt;
+
+</description>
+        <link>http://127.0.0.1:4000/updates///research-needs/efficient-model-calibration.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/updates///research-needs/efficient-model-calibration.html</guid>
+      </item>
+    
+      <item>
+        <title>Effective Model Outputs for Decision-Making</title>
+        <description>&lt;p&gt;Which model outputs are the most informative and compel decisions?  &lt;/p&gt;
+
+&lt;h1 id=&quot;existing-work&quot;&gt;Existing Work&lt;/h1&gt;
+
+</description>
+        <link>http://127.0.0.1:4000/updates///research-needs/model-outputs-decisions.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/updates///research-needs/model-outputs-decisions.html</guid>
+      </item>
+    
+      <item>
+        <title>Travel Model Workforce Development</title>
+        <description>&lt;p&gt;How do we recruit and effectively develop the next generation of travel modelers?&lt;/p&gt;
+
+&lt;h1 id=&quot;existing-work&quot;&gt;Existing Work&lt;/h1&gt;
+
+</description>
+        <link>http://127.0.0.1:4000/updates///research-needs/model-workforce.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/updates///research-needs/model-workforce.html</guid>
+      </item>
+    
+      <item>
+        <title>Representing Transportation Network Companies (TNCs) in Models</title>
+        <description>&lt;p&gt;Adding ride-sharing  mode and route choice/assignment (this one should be easy for them)&lt;/p&gt;
+
+&lt;h1 id=&quot;existing-work&quot;&gt;Existing Work&lt;/h1&gt;
+
+</description>
+        <link>http://127.0.0.1:4000/updates///research-needs/tnc-models.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/updates///research-needs/tnc-models.html</guid>
+      </item>
+    
+  </channel>
+</rss>
