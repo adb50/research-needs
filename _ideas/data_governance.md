@@ -9,6 +9,9 @@ interested-practitioners:
  - name: Kendra Levine, Berkeley
    link: http://libraryattack.com/
 interested-researchers: .
+interested-committees:
+ - name: ABJ30 Urban Transportation Data and Information Systems
+ - link: http://www.trb.org/ABJ30/ABJ30.aspx
 comments: true
 ---
 
