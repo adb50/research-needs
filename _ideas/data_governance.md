@@ -6,6 +6,8 @@ interested-practitioners:
    link: https://github.com/krishnan-viswanathan
  - name: Josie Kressner, Transport Foundry
    link: https://github.com/josiekre
+ - name: Kendra Levine, Berkeley
+   link: http://libraryattack.com/
 interested-researchers: .
 comments: true
 ---
