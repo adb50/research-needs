@@ -22,9 +22,12 @@ it to the [Research Needs Database](http://rns.trb.org).
 To add or edit a research need:  
 
  - [Get a GitHub Account](http://github.com/join)  
- - ["Fork"](https://help.github.com/articles/fork-a-repo/) the [git repository with research needs](https://github.com/adb50/research-needs)  
+ - ["Fork"](https://help.github.com/articles/fork-a-repo/) the [git repository with research needs](https://github.com/adb50/research-needs/tree/gh-pages/_ideas)  
  - [Add](https://help.github.com/articles/creating-new-files/) your research need -or- 
  [edit](https://help.github.com/articles/editing-files-in-your-repository/) somebody else's  
+ - If you are adding a new idea, be sure and 
+use [the template](https://github.com/adb50/research-needs/tree/gh-pages/_ideas) so that 
+it will render correctly
  - "Commit" your changes  
  - Submit a ["Pull Request"](https://help.github.com/articles/using-pull-requests/) 
  to request that your changes go back into the main repository  
