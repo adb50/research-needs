@@ -6,7 +6,7 @@
         </div>
         </div>
         {% for rns in site.ideas limit: 40 %}
-             <a href="{{ rns.url }}">{{ rns.title }}</a><br>
+             <a href="{{ site.baseurl }}{{ rns.url }}">{{ rns.title }}</a><br>
         {% endfor %}
 <!-- /container -->
 </div>
