@@ -5,7 +5,7 @@
             <h5 class="section-heading">Research Needs in Development</h5>
         </div>
         </div>
-        {% for rns in site.research-needs limit: 40 %}
+        {% for rns in site.ideas limit: 40 %}
              <a href="{{ rns.url }}">{{ rns.title }}</a><br>
         {% endfor %}
 <!-- /container -->

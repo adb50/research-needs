@@ -9,7 +9,7 @@ title: Research Needs Development for Planning Applications
 timezone: America/Los_Angeles
 
 collections:
-    research-needs:
+    ideas:
         output: true
 
 include: ["resources"]
