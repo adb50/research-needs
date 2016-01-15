@@ -8,7 +8,17 @@ interested-researchers: .
 comments: true
 ---
 
+# Description
 How do we recruit and effectively develop the next generation of travel modelers?
 
-# Existing Work
+# Objective
 
+# Benefits / Relevance / Priority / Urgency
+
+# Suggested Funding
+
+# Related Research
+
+# Tasks
+
+# Implementation

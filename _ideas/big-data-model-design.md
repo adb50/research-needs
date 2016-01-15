@@ -8,7 +8,17 @@ interested-researchers: .
 comments: true
 ---
 
+# Description
 How do we leveraging big data in model design?
 
-# Existing Work
+# Objective
 
+# Benefits / Relevance / Priority / Urgency
+
+# Suggested Funding
+
+# Related Research
+
+# Tasks
+
+# Implementation

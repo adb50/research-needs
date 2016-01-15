@@ -12,6 +12,7 @@ interested-researchers: .
 comments: true
 ---
 
+# Description
 There are a lot of data available from a variety of private sources. There are many 
 variations of terms offered by these data providers. Some are permissive of all internal 
 uses; others have restrictive clauses that prevent public agencies from internally sharing 
@@ -26,6 +27,8 @@ Public agencies on the other hand have broad public access laws that leads to th
 * How should RFPs and contracts be structured to be true to the letter and spirit of both 
 existing laws and data contracts?
 
+# Objective
+
 Potential research questions:
 
 * Are there standard terms that can be developed that define this type of data use case 
@@ -34,8 +37,14 @@ guidance/examples could be provided for permitted and non-permitted activities. 
 example, x, y, and z types of graphics are allowed without advanced approval if the 
 graphics satisfy a, b, and c requirements. 
 
-## Existing Work
+# Benefits / Relevance / Priority / Urgency
 
-Not aware of any
+# Suggested Funding
+
+# Related Research
+
+# Tasks
+
+# Implementation
 
 

@@ -14,8 +14,17 @@ interested-researchers:
 comments: true
 ---
 
+# Description
 description of research need 
 
-# Existing Work
+# Objective
 
-list of existing work 
+# Benefits / Relevance / Priority / Urgency
+
+# Suggested Funding
+
+# Related Research
+
+# Tasks
+
+# Implementation

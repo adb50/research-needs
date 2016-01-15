@@ -8,8 +8,17 @@ interested-researchers: .
 comments: true
 ---
 
+# Description
 How do we add connected and autonomous vehicles to our long range planning analysis?
 
+# Objective
 
-# Existing Work
+# Benefits / Relevance / Priority / Urgency
 
+# Suggested Funding
+
+# Related Research
+
+# Tasks
+
+# Implementation

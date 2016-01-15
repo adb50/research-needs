@@ -8,7 +8,17 @@ interested-researchers: .
 comments: true
 ---
 
+# Description
 Adding ride-sharing  mode and route choice/assignment (this one should be easy for them)
 
-# Existing Work
+# Objective
 
+# Benefits / Relevance / Priority / Urgency
+
+# Suggested Funding
+
+# Related Research
+
+# Tasks
+
+# Implementation

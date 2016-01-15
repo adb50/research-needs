@@ -8,11 +8,19 @@ interested-researchers: .
 comments: true
 ---
 
+# Description
 Testing accessibility metrics with planners.
 
 Metrics that help explain accessibility across scenarios and across geographies?
 
+# Objective
 
-# Existing Work
+# Benefits / Relevance / Priority / Urgency
 
+# Suggested Funding
 
+# Related Research
+
+# Tasks
+
+# Implementation

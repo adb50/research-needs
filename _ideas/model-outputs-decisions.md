@@ -8,7 +8,17 @@ interested-researchers: .
 comments: true
 ---
 
+# Description
 Which model outputs are the most informative and compel decisions?  
 
-# Existing Work
+# Objective
 
+# Benefits / Relevance / Priority / Urgency
+
+# Suggested Funding
+
+# Related Research
+
+# Tasks
+
+# Implementation
